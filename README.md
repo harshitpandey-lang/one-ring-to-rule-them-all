@@ -10,6 +10,6 @@ This ring will help me doing the chanting in the modern way. I will record each 
 # Notes for reviewer
 
 Here are some disclosures:
->I have used Chat gpt for fastening my reserch initially for what to use and how to make and for learinig purpose else everything is done by myself as recorded as well in lapse.
+>I have used Chat gpt for fastening my reserch initially for >what to use and >how to make and> for learinig purpose else everything is done by myself as recorded as well in lapse.
 
 ---
