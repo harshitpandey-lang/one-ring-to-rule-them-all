@@ -13,3 +13,22 @@ Here are some disclosures:
 >I have used Chat gpt for fastening my reserch initially for >what to use and >how to make and> for learinig purpose else everything is done by myself as recorded as well in lapse.
 
 ---
+
+Purpose:-
+It is going to be used to store the number of rotation the ring will made and show it on the screen and it will be used to chant the holy names.
+Features:-
+It will count the number of rotations
+it has a display to show numbers
+it has a reset buttons
+it looks cool as it is made up of PCB
+it is made up two circular rings one of them will be static and the outer one will move that will have all the components
+the lower ring has a magnet that when will be crossed through the hall effect sensor will count as one rotation.
+Components used:-
+"DRV5032" - hall effect sensor
+"LR44 1.5V Micro Alkaline" - Coin Battery
+"ATTINY402-SSN-MICROCHIP-8 Bit MCU" - Microcontroller
+"0.42-inch I²C OLED module" - Display
+"Miniature tactile switch" - Switch
+Miniature permanent magnet
+Flexible PCB
+Miniature permanent magent
