@@ -19,20 +19,20 @@ Here are some disclosures:
 
 ### Features:-
 
->It will count the number of rotations
->it has a display to show numbers
->it has a reset buttons
->it looks cool as it is made up of PCB
->it is made up two circular rings one of them will be static and the outer one will move that will have all the components
->the lower ring has a magnet that when will be crossed through the hall effect sensor will count as one rotation.
+>1. It will count the number of rotations
+>2. it has a display to show numbers
+>3. it has a reset buttons
+>4. it looks cool as it is made up of PCB
+>5. it is made up two circular rings one of them will be static and the outer one will move that will have all the components
+>6. the lower ring has a magnet that when will be crossed through the hall effect sensor will count as one rotation.
 
 ### Components used:-
 
->"DRV5032" - hall effect sensor
->"LR44 1.5V Micro Alkaline" - Coin Battery
->"ATTINY402-SSN-MICROCHIP-8 Bit MCU" - Microcontroller
->"0.42-inch I²C OLED module" - Display
->"Miniature tactile switch" - Switch
->Miniature permanent magnet
->Flexible PCB
->Miniature permanent magent
+>1. "DRV5032" - hall effect sensor
+>2. "LR44 1.5V Micro Alkaline" - Coin Battery
+>3. ATTINY402-SSN-MICROCHIP-8 Bit MCU" - Microcontroller
+>4. "0.42-inch I²C OLED module" - Display
+>5. "Miniature tactile switch" - Switch
+>6. Miniature permanent magnet
+>7. Flexible PCB
+>8. Miniature permanent magent
