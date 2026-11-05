@@ -37,4 +37,4 @@ Spent the day figuring out the features I will need to make this ring. I figured
 
 
 
-**Total time spent: 4 hours**
+**Total time spent: 1h 29m**
